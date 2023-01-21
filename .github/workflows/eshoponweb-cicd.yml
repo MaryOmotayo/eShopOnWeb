@@ -11,7 +11,6 @@ env:
   SUBSCRIPTION-ID: YOUR-SUBS-ID
   WEBAPP-NAME: az400-webapp-NAME
 
-
 jobs:
   #Build, test and publish .net web project in repository
   buildandtest:
